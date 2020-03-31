@@ -19,9 +19,9 @@ $git checkout 가지이름
 ##branch파고 commit 후 merge까지 
 ```
 $git branch branchex  
-$git branch checkout branchex  
+$git checkout branchex  
 $git add .  
-$git commit -m "branch text"  
+$git commit -m "branch test"  
 $git push origin branchex  
 $git checkout master  
 $git merge branchex  
