@@ -8,4 +8,4 @@
 >감사합니다!  
 
 >This repository is made for personal instruction session.  
->hope this repository can be a helpful note for those who take this session.  
+>hope this repository can be used as a helpful note for those who take this session.  
