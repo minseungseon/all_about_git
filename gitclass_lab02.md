@@ -23,7 +23,7 @@ $git branch checkout branchex
 $git add .  
 $git commit -m "branch text"  
 $git push origin branchex  
-$git branch checkout master  
+$git checkout master  
 $git merge branchex  
 $git push origin master  
 ```
