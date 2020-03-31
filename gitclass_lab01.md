@@ -1,4 +1,4 @@
-# All_about_git 실  
+# All_about_git 실습코드
 > 여러분을 위한 ***cheating note*** 입니다 ㅎㅎ  
 >열심히 해보는데 어려워할까봐 걱정이네요 ㅠㅠ  
 >하지만 잘하고 있습니다!  
